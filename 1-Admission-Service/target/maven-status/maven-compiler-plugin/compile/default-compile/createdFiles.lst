@@ -1,0 +1,3 @@
+com\geetha\microservice\AdmissionsService\model\patient\Patient.class
+com\geetha\microservice\Admissions\Service\ms\AdmissionsServiceMsApplication.class
+com\geetha\microservice\AdmissionsService\resources\AdmissionsResource.class
